@@ -10,7 +10,7 @@
 <body class="bg-white text-gray-800">
 
   <!-- Navbar -->
-  <nav class="bg-blue-300 p-4 text-white">
+  <nav class="bg-gray-600 p-4 text-white">
     <div class="max-w-7xl mx-auto flex justify-between items-center">
       <h1 class="text-2xl font-bold">Asep Villa Propertie</h1>
 
@@ -63,9 +63,9 @@ bg-gradient-to-r from-sky-400 via-blue-300 to-white text-white">
       </a>
     </div>
     <!-- Image -->
-    <div class="md:w-1/2 mb-10 md:mb-0">
+    {{-- <div class="md:w-1/2 mb-10 md:mb-0">
       <img src="{{ asset('dumblebg.png') }}" alt="-" class="w-full max-w-md mx-auto">
-    </div>
+    </div> --}}
   </section>
 
     <!-- Fasilitas -->
